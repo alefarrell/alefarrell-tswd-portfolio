@@ -1,96 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Hola, soy Ale!
+
 I’m Alexander Farrell (he/they), a Mexican-American Stage and Production Manager based in Pittsburgh and a current Master’s student in Arts Management at Carnegie Mellon University.  This portfolio was created as part of *Telling Stories with Data*, a course exploring how visual storytelling and data design can illuminate complex ideas and inspire informed action.
 
 My background is rooted in theatre and live performance, where I specialize in creating collaborative environments that allow artists and teams to tell their stories with clarity and care.  As Technical Coordinator for CMU’s Playground Festival, I managed logistics for 48 independent productions, and as Production Manager for *Lorca in a Green Dress*, I helped lead the School of Drama’s first offsite production in years.
 
-Most recently, as producer of *Know Your Rights*, I led the creation of a student-driven PSA aimed at empowering the Pittsburgh Latine community through creative and accessible legal education.  Produced by Nuestra Casa, an affinity group at the Carnegie Mellon School of Drama, and created in partnership with the local immigration support center Casa San José, the video fuses celebration with action—transforming vital immigration information into a vibrant, culturally resonant message of unity and strength. Beyond its creative storytelling, this project is a call to protect and uplift our communities, serving as both a public resource and an invitation to engage: with your neighbors, your rights, and the organizations doing the work every day.
+Most recently, as producer of *Know Your Rights*, I led the creation of a student-driven PSA aimed at empowering the Pittsburgh Latino community through creative and accessible legal education.  Produced by Nuestra Casa, an affinity group at the Carnegie Mellon School of Drama, and created in partnership with the local immigration support center Casa San José, the video fuses celebration with action—transforming vital immigration information into a vibrant, culturally resonant message of unity and strength. Beyond its creative storytelling, this project is a call to protect and uplift our communities, serving as both a public resource and an invitation to engage: with your neighbors, your rights, and the organizations doing the work every day.
 
 ### What I Hope to Learn
-Through this course, I hope to deepen my understanding of how creative and analytical thinking can work together to shape meaningful narratives.  I’m interested in exploring how data can be used not just to inform, but to engage—and how visual storytelling can make complex information more accessible and emotionally resonant.  Specifically, I want to learn how to use data-driven storytelling to advance equity in the arts: revealing patterns, amplifying underrepresented voices, and building stronger, more transparent systems within cultural organizations.
+Through this course, I aim to deepen my understanding of how creative and analytical thinking can collaborate to shape meaningful narratives.  I’m interested in exploring how data can be used not just to inform, but to engage—and how visual storytelling can make complex information more accessible and emotionally resonant.  Specifically, I aim to learn how to utilize data-driven storytelling to promote equity in the arts, including revealing patterns, amplifying underrepresented voices, and fostering stronger, more transparent systems within cultural organizations.
 
-# Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# PORTFOLIO
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
