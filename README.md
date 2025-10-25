@@ -1,30 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Hola, soy Ale!
+I’m Alexander Farrell (he/they), a Mexican-American Stage and Production Manager based in Pittsburgh and a current Master’s student in Arts Management at Carnegie Mellon University.  This portfolio was created as part of *Telling Stories with Data*, a course exploring how visual storytelling and data design can illuminate complex ideas and inspire informed action.
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+My background is rooted in theatre and live performance, where I specialize in creating collaborative environments that allow artists and teams to tell their stories with clarity and care.  As Technical Coordinator for CMU’s Playground Festival, I managed logistics for 48 independent productions, and as Production Manager for *Lorca in a Green Dress*, I helped lead the School of Drama’s first offsite production in years.
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Most recently, as producer of *Know Your Rights*, I led the creation of a student-driven PSA aimed at empowering the Pittsburgh Latine community through creative and accessible legal education.  Produced by Nuestra Casa, an affinity group at the Carnegie Mellon School of Drama, and created in partnership with the local immigration support center Casa San José, the video fuses celebration with action—transforming vital immigration information into a vibrant, culturally resonant message of unity and strength. Beyond its creative storytelling, this project is a call to protect and uplift our communities, serving as both a public resource and an invitation to engage: with your neighbors, your rights, and the organizations doing the work every day.
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+### What I Hope to Learn
+Through this course, I hope to deepen my understanding of how creative and analytical thinking can work together to shape meaningful narratives.  I’m interested in exploring how data can be used not just to inform, but to engage—and how visual storytelling can make complex information more accessible and emotionally resonant.  Specifically, I want to learn how to use data-driven storytelling to advance equity in the arts: revealing patterns, amplifying underrepresented voices, and building stronger, more transparent systems within cultural organizations.
 
 # Portfolio
 
