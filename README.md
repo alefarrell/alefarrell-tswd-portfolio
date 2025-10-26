@@ -13,8 +13,6 @@ Through this course, I aim to deepen my understanding of how creative and analyt
 
 # PORTFOLIO
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt.md)
-
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
