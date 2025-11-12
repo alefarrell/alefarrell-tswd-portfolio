@@ -6,6 +6,7 @@ Understanding Global Attitudes Toward Bribery
 ## Step 1: The Visualization
 
 <img width="3400" height="2400" alt="image" src="https://github.com/user-attachments/assets/0170f09b-a63a-4c6b-a181-9ca1366c2875" />
+
 _Source:_ Herre, Bastian; Samborska, Veronika; Ortiz-Ospina, Esteban. “Corruption.” Our World in Data.
 
 I selected this visualization from [Our World in Data](https://ourworldindata.org/corruption) because it offers a compelling global view of how people across different countries perceive bribery--specifically, whether they believe it’s ever justifiable.  The map, rendered in shades of green, quickly conveys cross-country differences and invites reflection on cultural attitudes toward corruption.
@@ -23,7 +24,9 @@ The primary audience seems to be Our World in Data’s general readership-- stud
 
 ## Step 3: Sketch a Solution
 
-In my _quick_ redesign, I focused on emotional alignment and interpretive clarity.  I retitled the visualization “When Is a Bribe Ever Okay? Most Say Never.”  Highlighting never in blue helped immediately connect the moral stance to its visual representation, addressing the confusion caused by the original color scheme.
+<img width="1202" height="946" alt="image" src="https://github.com/user-attachments/assets/aa74aa45-b55e-479b-96e6-fa3d0f56babb" />
+
+In my _QUICK_ redesign, I focused on emotional alignment and interpretive clarity.  I retitled the visualization “When Is a Bribe Ever Okay? Most Say Never.”  Highlighting never in blue helped immediately connect the moral stance to its visual representation, addressing the confusion caused by the original color scheme.
 
 I also experimented with a more consistent, monochromatic palette and unified data units to make the visualization easier to read at a glance.
 
@@ -41,6 +44,8 @@ Feedback revealed that while connecting the color of never to the title improved
 Others recommended adding motion or narrative-- such as animating the map over time-to highlight shifting attitudes and spark curiosity.  Building on my own reaction to Mexico’s score, we discussed layering in complementary data (like reported bribery incidents) to give audiences a richer understanding of context and contradiction.
 
 ## Step 5: Building the Solution
+
+<img width="925" height="673" alt="image" src="https://github.com/user-attachments/assets/115c1a78-aa01-4675-92f7-72b7298a50af" />
 
 Through redesign and iteration, I learned that data visualization isn’t just about accuracy--it’s about empathy and storytelling.  The process of gathering feedback was invaluable; it reminded me that effective design often comes from stepping outside my own perspective and observing how others interpret the same data.
 
