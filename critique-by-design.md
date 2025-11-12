@@ -9,12 +9,12 @@ _Source:_ Herre, Bastian; Samborska, Veronika; Ortiz-Ospina, Esteban. “Corrupt
 
 I selected this visualization from Our World in Data because it offers a compelling global view of how people across different countries perceive bribery--specifically, whether they believe it’s ever justifiable.  The map, rendered in shades of green, quickly conveys cross-country differences and invites reflection on cultural attitudes toward corruption.
 
-What caught my attention most was Mexico’s placement—lower on the acceptance scale than I expected, given how often bribery is discussed as a social issue at home.  That unexpected insight was what initially drew me in and made me want to understand how design choices could clarify or complicate that story.
+What caught my attention most was Mexico’s placement--lower on the acceptance scale than I expected, given how often bribery is discussed as a social issue at home.  That unexpected insight was what initially drew me in and made me want to understand how design choices could clarify or complicate that story.
 
 ## Step 2: The Critique
 Overall, the visualization succeeds in providing a clear global overview and encourages quick comparison between nations.  However, several design elements make it less effective for deeper engagement.
 
-The color scheme, for instance, uses a green gradient—an odd choice given the negative connotation of the topic.  Darker green tones unintentionally suggest something “positive” or “healthy,” which conflicts with the seriousness of bribery.  A more neutral or divergent palette (reds, oranges, or grays) might better communicate that moral tension.
+The color scheme, for instance, uses a green gradient--an odd choice given the negative connotation of the topic.  Darker green tones unintentionally suggest something “positive” or “healthy,” which conflicts with the seriousness of bribery.  A more neutral or divergent palette (reds, oranges, or grays) might better communicate that moral tension.
 
 I also noticed a disconnect between the map’s percentage data and the 1-10 “justifiability” scale in the original dataset.  Aligning those units would help users interpret the information more intuitively.
 
