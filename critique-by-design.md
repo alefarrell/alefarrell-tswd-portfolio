@@ -1,59 +1,66 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
-# Title
-Text here...
+# Critique by Design
+Understanding Global Attitudes Toward Bribery
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## Step 1: The Visualization
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+<iframe 
+  src="https://archive.ourworldindata.org/20250909-093708/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable.html?tab=map" 
+  loading="lazy" 
+  style="width:100%; height:600px; border:none;" 
+  allow="web-share; clipboard-write">
+</iframe>
 
-## Step one: the visualization
+_Source:_ Herre, Bastian; Samborska, Veronika; Ortiz-Ospina, Esteban. “Corruption.” Our World in Data.
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I selected this visualization from Our World in Data because it offers a compelling global view of how people across different countries perceive bribery--specifically, whether they believe it’s ever justifiable.  The map, rendered in shades of green, quickly conveys cross-country differences and invites reflection on cultural attitudes toward corruption.
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+What caught my attention most was Mexico’s placement—lower on the acceptance scale than I expected, given how often bribery is discussed as a social issue at home.  That unexpected insight was what initially drew me in and made me want to understand how design choices could clarify or complicate that story.
 
-## Step three: Sketch a solution
+## Step 2: The Critique
+Overall, the visualization succeeds in providing a clear global overview and encourages quick comparison between nations.  However, several design elements make it less effective for deeper engagement.
 
-## Step four: Test the solution
+The color scheme, for instance, uses a green gradient—an odd choice given the negative connotation of the topic.  Darker green tones unintentionally suggest something “positive” or “healthy,” which conflicts with the seriousness of bribery.  A more neutral or divergent palette (reds, oranges, or grays) might better communicate that moral tension.
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+I also noticed a disconnect between the map’s percentage data and the 1-10 “justifiability” scale in the original dataset.  Aligning those units would help users interpret the information more intuitively.
 
-Questions to ask (modify these for your own interviews): 
+The primary audience seems to be Our World in Data’s general readership-students, researchers, and journalists interested in global issues.  While the map offers a solid overview, it lacks narrative depth or interactive context that could help audiences understand why certain countries rank as they do.  Adding context, such as economic or political indicators, could turn the visualization from an observation into a story.
 
-- Can you tell me what you think this is?
+## Step 3: Sketch a Solution
 
-- Can you describe to me what this is telling you?
+In my _quick_ redesign, I focused on emotional alignment and interpretive clarity.  I retitled the visualization “When Is a Bribe Ever Okay? Most Say Never.”  Highlighting never in blue helped immediately connect the moral stance to its visual representation, addressing the confusion caused by the original color scheme.
 
-- Is there anything you find surprising or confusing?
+I also experimented with a more consistent, monochromatic palette and unified data units to make the visualization easier to read at a glance.
 
-- Who do you think is the intended audience for this?
+## Step 4: Test the Solution
 
-- Is there anything you would change or do differently?
+I shared the revised concept with peers and classmates, asking broad, open-ended questions like:
+- What do you think this visualization represents?
+- What stands out or feels unclear?
+- Who do you think this is for?
+- What would you change?
 
-Results: 
+Key Takeaways:
+Feedback revealed that while connecting the color of never to the title improved clarity, using two contrasting colors created new confusion.  Simplifying the gradient to a single hue was suggested to improve readability.
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Others recommended adding motion or narrative-- such as animating the map over time-to highlight shifting attitudes and spark curiosity.  Building on my own reaction to Mexico’s score, we discussed layering in complementary data (like reported bribery incidents) to give audiences a richer understanding of context and contradiction.
 
+## Step 5: Building the Solution
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Through redesign and iteration, I learned that data visualization isn’t just about accuracy--it’s about empathy and storytelling.  The process of gathering feedback was invaluable; it reminded me that effective design often comes from stepping outside my own perspective and observing how others interpret the same data.
 
-Synthesis: 
+As someone with a background in theatre and production management, this felt familiar yet distinct: where theatre builds empathy through narrative and performance, visualization does it through clarity and connection.  Inviting peers and roommates into my process helped transform static numbers into something conversational and human.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Though I wish I’d had more time to refine and animate the design, this project reinforced my belief that good visualization—like good theatre--does more than inform.  It makes people feel something, reflect, and ask new questions.
 
 ## References
-_List any references you used here._
+Few, Stephen. “Data Visualization Effectiveness Profile.” Perceptual Edge, 2017.
+
+Georgia State University Library, dir. Data Ready Part 6: Correlation, Causation & Misleading Data. 2021. 09:18. https://www.youtube.com/watch?v=emb6EoIDcnw.
+
+Peck, Evan. “Data Is Personal. What We Learned from 42 Interviews in Rural America.” Multiple Views: Visualization Research Explained, May 20, 2019. https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+OpenAI. (2025). ChatGPT [Used to check and refine spelling, grammar, and writing style].
 
