@@ -5,13 +5,6 @@ Understanding Global Attitudes Toward Bribery
 
 ## Step 1: The Visualization
 
-<iframe 
-  src="https://archive.ourworldindata.org/20250909-093708/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable.html?tab=map" 
-  loading="lazy" 
-  style="width:100%; height:600px; border:none;" 
-  allow="web-share; clipboard-write">
-</iframe>
-
 _Source:_ Herre, Bastian; Samborska, Veronika; Ortiz-Ospina, Esteban. “Corruption.” Our World in Data.
 
 I selected this visualization from Our World in Data because it offers a compelling global view of how people across different countries perceive bribery--specifically, whether they believe it’s ever justifiable.  The map, rendered in shades of green, quickly conveys cross-country differences and invites reflection on cultural attitudes toward corruption.
