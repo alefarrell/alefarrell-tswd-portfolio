@@ -5,7 +5,7 @@ Understanding Global Attitudes Toward Bribery
 
 ## Step 1: The Visualization
 
-<img width="3400" height="2400" alt="image" src="https://github.com/user-attachments/assets/0170f09b-a63a-4c6b-a181-9ca1366c2875" />
+<img width="925" height="673" alt="image" src="https://github.com/user-attachments/assets/0170f09b-a63a-4c6b-a181-9ca1366c2875" />
 
 _Source:_ Herre, Bastian; Samborska, Veronika; Ortiz-Ospina, Esteban. “Corruption.” Our World in Data.
 
