@@ -5,9 +5,10 @@ Understanding Global Attitudes Toward Bribery
 
 ## Step 1: The Visualization
 
+<img width="3400" height="2400" alt="image" src="https://github.com/user-attachments/assets/0170f09b-a63a-4c6b-a181-9ca1366c2875" />
 _Source:_ Herre, Bastian; Samborska, Veronika; Ortiz-Ospina, Esteban. “Corruption.” Our World in Data.
 
-I selected this visualization from Our World in Data because it offers a compelling global view of how people across different countries perceive bribery--specifically, whether they believe it’s ever justifiable.  The map, rendered in shades of green, quickly conveys cross-country differences and invites reflection on cultural attitudes toward corruption.
+I selected this visualization from [Our World in Data](https://ourworldindata.org/corruption) because it offers a compelling global view of how people across different countries perceive bribery--specifically, whether they believe it’s ever justifiable.  The map, rendered in shades of green, quickly conveys cross-country differences and invites reflection on cultural attitudes toward corruption.
 
 What caught my attention most was Mexico’s placement--lower on the acceptance scale than I expected, given how often bribery is discussed as a social issue at home.  That unexpected insight was what initially drew me in and made me want to understand how design choices could clarify or complicate that story.
 
@@ -18,7 +19,7 @@ The color scheme, for instance, uses a green gradient--an odd choice given the n
 
 I also noticed a disconnect between the map’s percentage data and the 1-10 “justifiability” scale in the original dataset.  Aligning those units would help users interpret the information more intuitively.
 
-The primary audience seems to be Our World in Data’s general readership-students, researchers, and journalists interested in global issues.  While the map offers a solid overview, it lacks narrative depth or interactive context that could help audiences understand why certain countries rank as they do.  Adding context, such as economic or political indicators, could turn the visualization from an observation into a story.
+The primary audience seems to be Our World in Data’s general readership-- students, researchers, and journalists interested in global issues.  While the map offers a solid overview, it lacks narrative depth or interactive context that could help audiences understand why certain countries rank as they do.  Adding context, such as economic or political indicators, could turn the visualization from an observation into a story.
 
 ## Step 3: Sketch a Solution
 
