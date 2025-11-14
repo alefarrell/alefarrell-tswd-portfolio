@@ -24,7 +24,8 @@ The primary audience seems to be Our World in Data’s general readership-- stud
 
 ## Step 3: Sketch a Solution
 
-<img width="1202" height="946" alt="image" src="https://github.com/user-attachments/assets/aa74aa45-b55e-479b-96e6-fa3d0f56babb" />
+<img width="1202" height="673" alt="image" src="https://github.com/user-attachments/assets/aa74aa45-b55e-479b-96e6-fa3d0f56babb" />
+
 
 In my _QUICK_ redesign, I focused on emotional alignment and interpretive clarity.  I retitled the visualization “When Is a Bribe Ever Okay? Most Say Never.”  Highlighting never in blue helped immediately connect the moral stance to its visual representation, addressing the confusion caused by the original color scheme.
 
@@ -74,6 +75,7 @@ Others recommended adding motion or narrative—like animating the map over time
     <param name="publish" value="yes" />
   </object>
 </div>
+
 
 When it came time to build this final iteration, I spent more time shaping the narrative: What is the argument here?  I landed on a timeline-driven message-- Misrepresenting immigrant value systems distorts public understanding and leads to harmful policy outcomes.
 
