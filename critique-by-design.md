@@ -75,17 +75,6 @@ Others recommended adding motion or narrative—like animating the map over time
   </object>
 </div>
 
-<script type="text/javascript">
-  var divElement = document.getElementById('vizCORRUPTION');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width = '100%';
-  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
-
 When it came time to build this final iteration, I spent more time shaping the narrative: What is the argument here?  I landed on a timeline-driven message-- Misrepresenting immigrant value systems distorts public understanding and leads to harmful policy outcomes.
 
 The seriousness of the topic also pushed me to refine the title. I settled on a Spanglish, tongue-in-cheek twist: Quién dijo we’re corrupt? ACROSS THE AMERICAS, La Mayoría Says Bribes Are NEVER OK
