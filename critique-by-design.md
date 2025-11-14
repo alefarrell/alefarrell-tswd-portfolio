@@ -56,9 +56,12 @@ Though I wish I’d had more time to refine and animate the design, this project
 ## References
 Few, Stephen. “Data Visualization Effectiveness Profile.” Perceptual Edge, 2017.
 
-Georgia State University Library, dir. Data Ready Part 6: Correlation, Causation & Misleading Data. 2021. 09:18. https://www.youtube.com/watch?v=emb6EoIDcnw.
+Georgia State University Library, dir. Data Ready Part 6: Correlation, Causation & Misleading Data. 2021. 09:18. [https://www.youtube.com/watch?v=emb6EoIDcnw](https://www.youtube.com/watch?v=emb6EoIDcnw).
 
-Peck, Evan. “Data Is Personal. What We Learned from 42 Interviews in Rural America.” Multiple Views: Visualization Research Explained, May 20, 2019. https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d.
+“The Best 15 Gold Green Color Palette Combinations.” Accessed November 13, 2025. [https://piktochart.com/tips/gold-green-color-palette](https://piktochart.com/tips/gold-green-color-palette).
+
+Peck, Evan. “Data Is Personal. What We Learned from 42 Interviews in Rural America.” Multiple Views: Visualization Research Explained, May 20, 2019. [https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d](https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d).
+
 
 ## AI acknowledgements
 OpenAI. (2025). ChatGPT [Used to check and refine spelling, grammar, and writing style].
