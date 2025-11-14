@@ -45,38 +45,40 @@ Others recommended adding motion or narrative-- such as animating the map over t
 
 ## Step 5: Building the Solution
 
-<div class="tableauPlaceholder" id="viz1763131703789" style="position: relative;">
+<div class="tableauPlaceholder" id="vizCORRUPTION" style="position: relative;">
   <noscript>
     <a href="#">
       <img 
-        alt="Quién dijo we’re corrupt? ACROSS THE AMERICAS, La Mayoría Says Bribes Are NEVER OK — Data source: Integrated Values Survey (ourworldindata.org/corruption)"
-        src="https://public.tableau.com/static/images/QC/QC54GQNNQ/1_rss.png"
+        alt="CORRUPTION Visualization"
+        src="https://public.tableau.com/static/images/CO/CORRUPTION_17631316464560/Sheet1/1.png"
         style="border: none;"
       />
     </a>
   </noscript>
 
-  <object class="tableauViz" style="display: none;">
+  <object class="tableauViz" style="display:none;">
     <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
     <param name="embed_code_version" value="3" />
-    <param name="path" value="shared/QC54GQNNQ" />
+    <param name="site_root" value="" />
+    <param name="name" value="CORRUPTION_17631316464560/Sheet1" />
+    <param name="tabs" value="no" />
     <param name="toolbar" value="yes" />
-    <param name="static_image" value="https://public.tableau.com/static/images/QC/QC54GQNNQ/1.png" />
     <param name="animate_transition" value="yes" />
     <param name="display_static_image" value="yes" />
     <param name="display_spinner" value="yes" />
     <param name="display_overlay" value="yes" />
     <param name="display_count" value="yes" />
     <param name="language" value="en-US" />
-    <param name="filter" value="publish=yes" />
+    <param name="publish" value="yes" />
   </object>
 </div>
 
 <script type="text/javascript">
-  var divElement = document.getElementById('viz1763131703789');
+  var divElement = document.getElementById('vizCORRUPTION');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width = '100%';
   vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
