@@ -87,8 +87,6 @@ Others recommended adding motion or narrative—like animating the map over time
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
-
 When it came time to build this final iteration, I spent more time shaping the narrative: What is the argument here?  I landed on a timeline-driven message-- Misrepresenting immigrant value systems distorts public understanding and leads to harmful policy outcomes.
 
 The seriousness of the topic also pushed me to refine the title. I settled on a Spanglish, tongue-in-cheek twist: Quién dijo we’re corrupt? ACROSS THE AMERICAS, La Mayoría Says Bribes Are NEVER OK
