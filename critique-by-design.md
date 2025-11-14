@@ -85,7 +85,7 @@ Through redesign and iteration, I learned that visualization isn’t just about 
 
 Coming from theatre and production management, this all felt familiar but distinct: where theatre builds empathy through narrative and performance, visualization does so through clarity and connection.  Inviting peers and roommates into my process helped transform static numbers into something conversational and human.
 
-Though I wish I’d had more time to refine and animate the design, this project reaffirmed my belief that good visualization—like good theatre—does more than inform.  It makes people feel something, reflect, and ask new questions.
+Though I wish I’d had more time to refine and animate the design, this project reaffirmed my belief that good visualization (like good theatre) does more than inform.  It makes people feel something, reflect, and ask new questions.
 
 ## References
 Datawrapper. “When to Use Sequential and When to Use Diverging Color Scales | Datawrapper Blog.” March 16, 2021. [https://www.datawrapper.de/blog/diverging-vs-sequential-color-scales](https://www.datawrapper.de/blog/diverging-vs-sequential-color-scales).
