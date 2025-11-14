@@ -39,9 +39,11 @@ I shared the revised concept with peers and classmates, asking broad, open-ended
 - What would you change?
 
 Key Takeaways:
-Feedback revealed that while connecting the color of never to the title improved clarity, using two contrasting colors created new confusion.  Simplifying the gradient to a single hue was suggested to improve readability.
+Feedback from my two classmates and two roommates showed that while connecting the “never” color to the title improved clarity, introducing two contrasting colors created new confusion.  Several people suggested simplifying the gradient to a single hue to strengthen readability.
 
-Others recommended adding motion or narrative-- such as animating the map over time-to highlight shifting attitudes and spark curiosity.  Building on my own reaction to Mexico’s score, we discussed layering in complementary data (like reported bribery incidents) to give audiences a richer understanding of context and contradiction.
+Digging deeper into [sequential and diverging color palettes](https://www.datawrapper.de/blog/diverging-vs-sequential-color-scales) also helped me understand why the original map used green-- humans perceive a wide range of green shades particularly well.  Still, the monochromatic direction didn’t convey the dramatic range in perceptions of corruption (a 10–84 point spread), and I wanted the design to push that narrative more boldly.
+
+Others recommended adding motion or narrative—like animating the map over time—to highlight shifting attitudes and spark curiosity. Building on my own reaction to Mexico’s score, we discussed layering complementary data (such as reported bribery incidents) to provide audiences with richer context and highlight contradictions.
 
 ## Step 5: Building the Solution
 
@@ -84,14 +86,19 @@ Others recommended adding motion or narrative-- such as animating the map over t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+When it came time to build this final iteration, I spent more time shaping the narrative: What is the argument here?  I landed on a timeline-driven message-- Misrepresenting immigrant value systems distorts public understanding and leads to harmful policy outcomes.
 
-Through redesign and iteration, I learned that data visualization isn’t just about accuracy--it’s about empathy and storytelling.  The process of gathering feedback was invaluable; it reminded me that effective design often comes from stepping outside my own perspective and observing how others interpret the same data.
+The seriousness of the topic also pushed me to refine the title. I settled on a Spanglish, tongue-in-cheek twist: Quién dijo we’re corrupt? ACROSS THE AMERICAS, La Mayoría Says Bribes Are NEVER OK
 
-As someone with a background in theatre and production management, this felt familiar yet distinct: where theatre builds empathy through narrative and performance, visualization does it through clarity and connection.  Inviting peers and roommates into my process helped transform static numbers into something conversational and human.
+Through redesign and iteration, I learned that visualization isn’t just about accuracy-- it’s about empathy and storytelling.  The feedback process was invaluable (even if it sent me in a full circle- from green, away from green, back to green).  It reminded me that effective design often emerges from stepping outside my own perspective and watching how others intuitively interpret the same data.
 
-Though I wish I’d had more time to refine and animate the design, this project reinforced my belief that good visualization—like good theatre--does more than inform.  It makes people feel something, reflect, and ask new questions.
+Coming from theatre and production management, this all felt familiar but distinct: where theatre builds empathy through narrative and performance, visualization does so through clarity and connection.  Inviting peers and roommates into my process helped transform static numbers into something conversational and human.
+
+Though I wish I’d had more time to refine and animate the design, this project reaffirmed my belief that good visualization—like good theatre—does more than inform.  It makes people feel something, reflect, and ask new questions.
 
 ## References
+Datawrapper. “When to Use Sequential and When to Use Diverging Color Scales | Datawrapper Blog.” March 16, 2021. [https://www.datawrapper.de/blog/diverging-vs-sequential-color-scales](https://www.datawrapper.de/blog/diverging-vs-sequential-color-scales).
+
 Few, Stephen. “Data Visualization Effectiveness Profile.” Perceptual Edge, 2017.
 
 Georgia State University Library, dir. Data Ready Part 6: Correlation, Causation & Misleading Data. 2021. 09:18. [https://www.youtube.com/watch?v=emb6EoIDcnw](https://www.youtube.com/watch?v=emb6EoIDcnw).
