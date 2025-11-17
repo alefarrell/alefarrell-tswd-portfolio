@@ -117,9 +117,9 @@ I plan to complete this project using a combination of:
 
 The final deliverable will be a data-driven story presented either as a long-form scrolling website or a polished multi-page report blending narrative, visuals, and recommendations.
 
-# References
+## References
 
 REFERENCES
 
-# AI acknowledgements
+## AI acknowledgements
 Portions of this assignment (including structural organization, outline formatting, and rewriting of narrative content) were completed with assistance from ChatGPT within permitted guidelines.  All data interpretation, project selection, and conceptual framing were developed by me.
