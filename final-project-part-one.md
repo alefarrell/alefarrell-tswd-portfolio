@@ -82,6 +82,7 @@ By visualizing national arts education trends and mapping them onto Heinz’s cu
 6.2 **Narrative Wrap-Up**
 * Connect national trends, leadership data, equity considerations, and Heinz’s mission.
 * Reinforce the opportunity for Heinz to lead by integrating arts education meaningfully.
+
 ---
 
 # Initial Sketches
