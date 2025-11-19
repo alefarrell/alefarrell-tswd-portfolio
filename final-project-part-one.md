@@ -86,8 +86,7 @@ By visualizing national arts education trends and mapping them onto Heinz’s cu
 ---
 
 # Initial Sketches
-
-SKETCH
+<img width="2954" height="2215" alt="image" src="https://github.com/user-attachments/assets/7b09716c-1d15-41b3-82c9-8a935f66bfb7" />
 
 # The Data
 My primary data source will be the [Arts Education Data Project (AEDP)](https://artseddata.org/national_report_2019/), which compiles statewide arts education access, enrollment, participation, and program data across 31 states.  While public dashboards provide high-level summaries, the raw spreadsheet datasets are not directly downloadable; I have contacted the AEDP directly for access.  If full datasets are not provided, I will reconstruct a usable dataset by extracting reported values from multiple AEDP dashboards and published annual reports.
