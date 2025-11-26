@@ -1,6 +1,8 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / Storyboards
+[https://preview.shorthand.com/u1Vfy8oji7ezHTnU](https://preview.shorthand.com/u1Vfy8oji7ezHTnU)
+
 Building on last week’s sketches, I used this week to refine the narrative arc, identify the key visual components of the project, and outline the high-fidelity visualizations needed to convey the story emerging from the data effectively.  With the text and overall flow now complete, I have compiled the visualization assets required for the final Shorthand piece.
 
 Planned Visualizations
