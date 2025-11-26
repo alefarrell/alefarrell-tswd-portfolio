@@ -6,10 +6,10 @@
 Building on last week’s sketches, I used this week to refine the narrative arc, identify the key visual components of the project, and outline the high-fidelity visualizations needed to convey the story emerging from the data effectively.  With the text and overall flow now complete, I have compiled the visualization assets required for the final Shorthand piece.
 
 Planned Visualizations
-• Choropleth Map - Arts Access by State: Provides a national backdrop that situates Heinz within broader arts access trends.
-• Line Graph - Arts Education Over Time: Illustrates changes in arts education offerings and participation nationwide, highlighting the extent to which Heinz is falling behind.
-• Giorgia Lupi–Style Artistic Data Visualization: Maps arts and arts-adjacent courses at Heinz using an artistic, analog-data approach.  Data collection for this visualization is underway.
-• Physical “Art of the Walls” Mock-Ups - Conceptual renderings of how art installations could physically enhance the Heinz College environment, demonstrating the potential impact of visual culture on the space.
+- Choropleth Map - Arts Access by State: Provides a national backdrop that situates Heinz within broader arts access trends.
+- Line Graph - Arts Education Over Time: Illustrates changes in arts education offerings and participation nationwide, highlighting the extent to which Heinz is falling behind.
+- Giorgia Lupi–Style Artistic Data Visualization: Maps arts and arts-adjacent courses at Heinz using an artistic, analog-data approach.  Data collection for this visualization is underway.
+- Physical “Art of the Walls” Mock-Ups - Conceptual renderings of how art installations could physically enhance the Heinz College environment, demonstrating the potential impact of visual culture on the space.
 
 A working draft of the Shorthand site is attached and reflects early integration of these narrative and visual components.
 
@@ -42,7 +42,9 @@ Systems Context Summary: Heinz College currently functions within a structure th
 
 These dynamics create a reinforcing feedback loop that sustains a narrow, data-centric culture.  However, emerging balancing loops—DEI work, mental-health advocacy, and student-led arts initiatives—present opportunities to shift toward a more holistic leadership model.
 
+
 Data Collection for Giorgia Lupi–Style Visualization
+
 To create the analog-inspired visualization of arts-related coursework at Heinz, I developed a Google Form survey (link included in submission). Using program handouts, I listed all core and elective courses and asked Program Directors/Advisors to evaluate each course on the following impression-based indicators:
 - Arts-related class
 - Includes arts-based examples
