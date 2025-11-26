@@ -76,5 +76,6 @@ For now, this section is intentionally left empty until the full dataset is avai
 Text here!
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Portions of this assignment (including structural organization, outline formatting, and rewriting of narrative content) were completed with assistance from ChatGPT within permitted guidelines. All data interpretation, project selection, and conceptual framing were developed by me.
+
 
