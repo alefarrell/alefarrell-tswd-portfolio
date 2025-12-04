@@ -1,4 +1,4 @@
-| [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](README.md)  [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / Storyboards
 [https://preview.shorthand.com/u1Vfy8oji7ezHTnU](https://preview.shorthand.com/u1Vfy8oji7ezHTnU)
