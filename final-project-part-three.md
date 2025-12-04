@@ -37,9 +37,6 @@ One area for future iteration, based on feedback, is how I represent courses “
 
 This raises a larger question I continue to think about:  Where is the boundary between artistic expression and clear data visualization?  As someone drawn to a more artistic, freeform approach, I enjoy the look of the scattered dots—but clarity may need to take precedence in future versions.
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
-
 ## AI acknowledgements
 OpenAI. (2025). ChatGPT [Used to check and refine spelling, grammar, and writing style].
 
