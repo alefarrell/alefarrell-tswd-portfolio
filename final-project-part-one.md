@@ -1,4 +1,4 @@
-| [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](README.md)  [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Final Project Outline
 For my final project, I am exploring the missing role of arts education within Heinz College and using data to illuminate why creative learning is essential for training future leaders in policy, technology, and management.  While Heinz emphasizes analytics, systems thinking, and technical proficiency, national arts education data reveals how creativity, arts access, and human-centered learning directly correlate with improved leadership, community-building, and academic outcomes.
