@@ -25,7 +25,7 @@ Insights from informal interviews helped me understand what information would re
 ## Final Design Decisions
 A major design focus was the artistic representation of the Heinz curriculum, inspired by Giorgia Lupi’s work in data humanism.  My goal was to create visuals that were not only informative but also aesthetically compelling—data that felt like art.
 
-<img width="3459" height="1000" alt="image" src="https://github.com/user-attachments/assets/0df9ea86-f610-489a-bb36-4eac9363899f" />
+<img width="3459" height="800" alt="image" src="https://github.com/user-attachments/assets/0df9ea86-f610-489a-bb36-4eac9363899f" />
 
 
 The process included:
